@@ -32,10 +32,10 @@ pip install -r requirements.txt
 
 ## Authors
 
-- <AUTHOR 1>
-- <AUTHOR 2>
-- <AUTHOR 3>
-- <AUTHOR 4>
+- Lloyd Choi
+- Dana Johannsen
+- Andrew Kim
+- Fiona Schuh
 
 ## License
 
