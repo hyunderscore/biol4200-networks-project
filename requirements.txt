@@ -1,6 +1,6 @@
 pandas
-seaborn
 numpy
 matplotlib
 networkx
 VegZ
+seaborn
