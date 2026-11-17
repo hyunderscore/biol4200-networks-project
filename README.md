@@ -1,34 +1,22 @@
-# YOUR TITLE HERE
+# Evaluating the Robustness of Empirical Plant-Pollinator Networks Under Targeted Centrality-Based Species Removal (2026)
 
-The repository contains code accompanying the following paper: <AUTHOR LIST>, TITLE (<YEAR>).
-
-If you use this repository in any fashion in your own work, please cite our work according to the `CITATION.cff`.
-
-# Contents
-
-- [Contents](#contents)
-- [Getting Started](#getting-started)
-  - [Repository layout](#repository-layout)
-  - [Installing](#installing)
-- [Other Information](#other-information)
-  - [Authors](#authors)
-  - [License](#license)
-
-# Getting started
+The repository contains code accompanying the following paper: Lloyd Choi, Dana Johannsen, Andrew Kim, Fiona Schuh, Evaluating the Robustness of Empirical Plant-Pollinator Networks Under Targeted Centrality-Based Species Removal (2026).
 
 ## Repository layout
 
 | Path | Role |
 |---|---|
-| `<FILENAME HERE>` | <WHAT THE FILE IS OR WHAT IT DOES> |
+| `<code>` | <This folder contains all of the secondary data derived from cleaning or analyzing the raw data.> |
+| `<data>` | <This folder contains all of the raw data used.> |
+| `<output>` | <This folder contains all of the secondary data derived from cleaning or analyzing the raw data.> |
+| `<LICENSE>` | <This file contains the license and copyright information for this project.> |
+| `<requirements.txt>` | <This file contains the required packages to install before running this project. > |
 
 ## Installation
 
 ```bash
 pip install -r requirements.txt
 ```
-
-# Other information
 
 ## Authors
 

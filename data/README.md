@@ -1,6 +1,8 @@
 # Raw Data
 
-<DATA CITATION>
-<URL TO DATA>
+This folder contains all of the raw data used.
 
-If your data is openly available (And less than 100MB), you can post it here. Otherwise, post the process for downloading and the file you used.
+<M. A. Fortuna, R. Ortega, and J. Bascompte, The web
+of life (2014), arXiv:1403.2575 [q-bio.PE].>
+
+<https://arxiv.org/abs/1403.2575>
