@@ -1,4 +1,4 @@
-# YOUR TITLE HERE
+# Evaluating the Robustness of Empirical Plant-Pollinator Networks Under Targeted Centrality-Based Species Removal
 
 The repository contains code accompanying the following paper: <AUTHOR LIST>, TITLE (<YEAR>).
 
